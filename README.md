@@ -1,0 +1,1 @@
+# Random Quote Generator  Interactive quote generator with animations, favorites, and social sharing.  ## Setup ```bash npm install npm run dev ```  ## Features - Random motivational quotes - Animated gradient backgrounds - Copy to clipboard - Twitter sharing - Favorites (localStorage) - Quote counter - Responsive design
